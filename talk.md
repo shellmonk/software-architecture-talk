@@ -118,7 +118,7 @@ Note: It's all about the money. Evaluating options to get closer to the unicorn
 ![Dilbert](/assets/dilbert.gif)
 
 
-Note: Software is just a code, but not really. Seeing the bigger picture. Understanding internal and external stakeholder's needs
+Note: Architecture is human activity. Software is just a code, but not really. Seeing the bigger picture. Understanding internal and external stakeholder's needs
 
 ---
 ### System Design vs Software Architecture
@@ -135,7 +135,7 @@ Note: Software is just a code, but not really. Seeing the bigger picture. Unders
 - How do I evaluate options? <!-- .element: class="fragment" data-fragment-index="4" -->
     - You'll never have enough information
 
-Note: You must find push for time to make an informed decision. (Non) functional requirements / Architectural characteristics. Build vs Buy. Decisions must be made eventually
+Note: You must find push for time to make an informed decision. (Non) functional requirements / Architectural characteristics. Build vs Buy. Decisions must be made eventually. Examples.
 ---
 
 ## There's No Silver Bullet
@@ -153,6 +153,9 @@ Note: You must find push for time to make an informed decision. (Non) functional
 
 > “Shiny object syndrome is the situation where people focus undue attention on an idea that is new and trendy, yet drop this as soon as something new takes it’s place” - **Wikipedia**
 
+- If you like software engineering, you suffer from Shiny Object Syndrome
+
+Note: Boom of specific technologies: Microservices, Blockchain, now even AI
 ---
 
 ## Standards and Documents are Our Friends
@@ -173,7 +176,7 @@ Note: Artefacts: SRS, SDS, Architecture Decision Log, C4, ISO/IEC/IEEE 42010 Sys
 - Business domain <!-- .element: class="fragment" data-fragment-index="3" -->
 - Setting expectations <!-- .element: class="fragment" data-fragment-index="4" -->
 
-Note: We are building software for people (unfortunately). Clients are often non technical people
+Note: We are building software for people (unfortunately). Clients can be technical or non technical. Or worse, something in between
 
 ---
 
